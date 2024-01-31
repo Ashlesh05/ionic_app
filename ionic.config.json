@@ -1,0 +1,7 @@
+{
+  "name": "Baeru",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

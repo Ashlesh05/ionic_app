@@ -1,0 +1,500 @@
+.recyclable-add {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .recyclable-add .div {
+    background-color: #ffffff;
+    width: 360px;
+    height: 800px;
+    position: relative;
+  }
+  
+  .recyclable-add .overlap {
+    position: absolute;
+    width: 360px;
+    height: 48px;
+    top: 0;
+    left: 0;
+    background-color: #a56946;
+  }
+  
+  .recyclable-add .expand-left {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 12px;
+    left: 8px;
+  }
+  
+  .recyclable-add .text-wrapper {
+    position: absolute;
+    top: 69px;
+    left: 28px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #96979b;
+    font-size: 10px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .recyclable-add .group {
+    position: absolute;
+    width: 304px;
+    height: 54px;
+    top: 95px;
+    left: 28px;
+    background-color: #f6f7f9;
+    border-radius: 10px;
+  }
+  
+  .recyclable-add .overlap-group-wrapper {
+    position: absolute;
+    width: 31px;
+    height: 33px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .recyclable-add .overlap-group {
+    position: relative;
+    width: 27px;
+    height: 33px;
+  }
+  
+  .recyclable-add .text-wrapper-2 {
+    top: 0;
+    color: #96979b;
+    font-size: 8px;
+    position: absolute;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .recyclable-add .text-wrapper-3 {
+    position: absolute;
+    top: 13px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .recyclable-add .overlap-wrapper {
+    position: absolute;
+    width: 40px;
+    height: 33px;
+    top: 13px;
+    left: 252px;
+  }
+  
+  .recyclable-add .overlap-2 {
+    position: relative;
+    width: 36px;
+    height: 33px;
+  }
+  
+  .recyclable-add .group-2 {
+    position: absolute;
+    width: 304px;
+    height: 54px;
+    top: 159px;
+    left: 28px;
+    background-color: #f6f7f9;
+    border-radius: 10px;
+  }
+  
+  .recyclable-add .div-wrapper {
+    width: 35px;
+    position: absolute;
+    height: 33px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .recyclable-add .overlap-group-2 {
+    width: 31px;
+    position: relative;
+    height: 33px;
+  }
+  
+  .recyclable-add .group-3 {
+    position: absolute;
+    width: 304px;
+    height: 54px;
+    top: 223px;
+    left: 28px;
+    background-color: #f6f7f9;
+    border-radius: 10px;
+  }
+  
+  .recyclable-add .group-4 {
+    width: 69px;
+    position: absolute;
+    height: 33px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .recyclable-add .overlap-group-3 {
+    width: 65px;
+    position: relative;
+    height: 33px;
+  }
+  
+  .recyclable-add .group-5 {
+    position: absolute;
+    width: 304px;
+    height: 54px;
+    top: 287px;
+    left: 28px;
+    background-color: #f6f7f9;
+    border-radius: 10px;
+  }
+  
+  .recyclable-add .group-6 {
+    width: 39px;
+    position: absolute;
+    height: 33px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .recyclable-add .overlap-group-4 {
+    width: 35px;
+    position: relative;
+    height: 33px;
+  }
+  
+  .recyclable-add .group-7 {
+    position: absolute;
+    width: 304px;
+    height: 54px;
+    top: 351px;
+    left: 28px;
+    background-color: #f6f7f9;
+    border-radius: 10px;
+  }
+  
+  .recyclable-add .group-8 {
+    width: 37px;
+    position: absolute;
+    height: 33px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .recyclable-add .overlap-group-5 {
+    width: 33px;
+    position: relative;
+    height: 33px;
+  }
+  
+  .recyclable-add .group-9 {
+    position: absolute;
+    width: 304px;
+    height: 54px;
+    top: 415px;
+    left: 28px;
+    background-color: #f6f7f9;
+    border-radius: 10px;
+  }
+  
+  .recyclable-add .group-10 {
+    width: 61px;
+    position: absolute;
+    height: 33px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .recyclable-add .overlap-group-6 {
+    width: 57px;
+    position: relative;
+    height: 33px;
+  }
+  
+  .recyclable-add .group-11 {
+    position: absolute;
+    width: 304px;
+    height: 54px;
+    top: 479px;
+    left: 28px;
+    background-color: #f6f7f9;
+    border-radius: 10px;
+  }
+  
+  .recyclable-add .group-12 {
+    position: absolute;
+    width: 304px;
+    height: 54px;
+    top: 543px;
+    left: 28px;
+    background-color: #f6f7f9;
+    border-radius: 10px;
+  }
+  
+  .recyclable-add .group-13 {
+    width: 52px;
+    position: absolute;
+    height: 33px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .recyclable-add .overlap-group-7 {
+    width: 48px;
+    position: relative;
+    height: 33px;
+  }
+  
+  .recyclable-add .group-14 {
+    position: absolute;
+    width: 304px;
+    height: 54px;
+    top: 607px;
+    left: 28px;
+    background-color: #f6f7f9;
+    border-radius: 10px;
+  }
+  
+  .recyclable-add .group-15 {
+    width: 106px;
+    position: absolute;
+    height: 33px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .recyclable-add .overlap-group-8 {
+    width: 102px;
+    position: relative;
+    height: 33px;
+  }
+  
+  .recyclable-add .overlap-3 {
+    position: absolute;
+    width: 304px;
+    height: 59px;
+    top: 671px;
+    left: 28px;
+  }
+  
+  .recyclable-add .group-16 {
+    position: absolute;
+    width: 304px;
+    height: 54px;
+    top: 0;
+    left: 0;
+    background-color: #f6f7f9;
+    border-radius: 10px;
+  }
+  
+  .recyclable-add .group-17 {
+    width: 60px;
+    position: absolute;
+    height: 33px;
+    top: 10px;
+    left: 16px;
+  }
+  
+  .recyclable-add .overlap-group-9 {
+    width: 56px;
+    position: relative;
+    height: 33px;
+  }
+  
+  .recyclable-add .save {
+    display: flex;
+    width: 304px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    position: absolute;
+    top: 19px;
+    left: 0;
+    background-color: #316974;
+    border-radius: 8px;
+  }
+  
+  .recyclable-add .text-wrapper-4 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 11px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .recyclable-add .group-18 {
+    position: absolute;
+    width: 360px;
+    height: 50px;
+    top: 750px;
+    left: 0;
+    background-color: #f9fafc;
+    box-shadow: 0px 0px 5px 2px #0000001a;
+  }
+  
+  .recyclable-add .group-19 {
+    position: absolute;
+    width: 27px;
+    height: 33px;
+    top: 13px;
+    left: 28px;
+  }
+  
+  .recyclable-add .overlap-group-10 {
+    width: 25px;
+    position: relative;
+    height: 33px;
+  }
+  
+  .recyclable-add .text-wrapper-5 {
+    position: absolute;
+    top: 13px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #4696a5;
+    font-size: 8px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .recyclable-add .subtract {
+    position: absolute;
+    width: 14px;
+    height: 16px;
+    top: 0;
+    left: 5px;
+  }
+  
+  .recyclable-add .group-20 {
+    position: absolute;
+    width: 45px;
+    height: 33px;
+    top: 13px;
+    left: 118px;
+  }
+  
+  .recyclable-add .overlap-4 {
+    position: relative;
+    width: 43px;
+    height: 33px;
+  }
+  
+  .recyclable-add .text-wrapper-6 {
+    position: absolute;
+    top: 13px;
+    left: 0;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #82868f;
+    font-size: 8px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .recyclable-add .group-21 {
+    position: absolute;
+    width: 15px;
+    height: 16px;
+    top: 0;
+    left: 14px;
+  }
+  
+  .recyclable-add .ellipse {
+    position: absolute;
+    width: 14px;
+    height: 5px;
+    top: 10px;
+    left: 0;
+  }
+  
+  .recyclable-add .ellipse-2 {
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    top: 0;
+    left: 3px;
+    background-color: #82868f;
+    border-radius: 4.22px;
+  }
+  
+  .recyclable-add .group-22 {
+    position: absolute;
+    width: 19px;
+    height: 33px;
+    top: 13px;
+    left: 313px;
+  }
+  
+  .recyclable-add .overlap-5 {
+    position: relative;
+    width: 17px;
+    height: 33px;
+  }
+  
+  .recyclable-add .text-wrapper-7 {
+    position: absolute;
+    top: 13px;
+    left: 1px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #82868f;
+    font-size: 8px;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    white-space: nowrap;
+  }
+  
+  .recyclable-add .currency-rupee {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 0;
+    left: 0;
+  }
+  
+  .recyclable-add .group-23 {
+    position: absolute;
+    width: 23px;
+    height: 33px;
+    top: 13px;
+    left: 226px;
+  }
+  
+  .recyclable-add .overlap-6 {
+    position: relative;
+    width: 21px;
+    height: 33px;
+  }
+  
+  .recyclable-add .img {
+    position: absolute;
+    width: 21px;
+    height: 16px;
+    top: 0;
+    left: 0;
+  }
+  
